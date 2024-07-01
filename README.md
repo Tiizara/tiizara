@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Artem Zakharov!
-
-## Hey! 👋
 I'm Artem, a 27-year-old web developer from Russia.
 
 ## Skills
