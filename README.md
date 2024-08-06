@@ -14,5 +14,5 @@
 
 ## Contact
 - [zakharov.artem.hh]()
-- [@tiizara]() on Telegram
-- [@tiizara](./) on Discord
+- [@tiizara](https://t.me/tiizara) on Telegram
+- [@tiizara](306443531101274122) on Discord
