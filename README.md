@@ -1,4 +1,4 @@
-## Hey 👋, I'm Artem Zakharov, a 27-year-old web developer from Russia.
+## Hey 👋, I'm Artem Zakharov, a 27-year-old frontend developer from Russia.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
