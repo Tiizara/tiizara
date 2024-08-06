@@ -13,6 +13,6 @@
 
 
 ## Contact
-- [zakharov.artem.hh]()
+- [zakharov.artem.hh](https://ekaterinburg.hh.ru/resume/3fac8df0ff0cd1a15c0039ed1f325658537963)
 - [@tiizara](https://t.me/tiizara) on Telegram
 - [@tiizara](https://discordapp.com/users/306443531101274122/) on Discord
